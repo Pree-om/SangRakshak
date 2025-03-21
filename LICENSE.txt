@@ -3,13 +3,13 @@ All Rights Reserved.
 
 This software, including but not limited to the codebase, AI models, user interface, and all related components, is the proprietary property of the developers of sangRakshak AI.  
 
-## 🚫 Restrictions:
+Restrictions:
 - Unauthorized copying, modification, distribution, or reproduction of any part of this software is **strictly prohibited**.  
 - Reverse engineering, decompiling, or attempting to extract the source code of this software in any form is **not permitted**.  
 - The software may **not** be used for commercial purposes or integrated into other projects without **explicit written permission** from the developers.  
 
-## ⚖️ Legal Action:
-Any violation of this license agreement will result in legal action under **applicable copyright and intellectual property laws**.  
+Legal Action:
+Any violation of this license agreement will result in legal action under applicable copyright and intellectual property laws.  
 
-## 📬 Contact:
-For licensing inquiries, permissions, or collaborations, please contact **preeom45@gmail.com**.  
+Contact:
+For licensing inquiries, permissions, or collaborations, please contact preeom45@gmail.com.  
