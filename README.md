@@ -1,7 +1,6 @@
 # SangRakshak: AI-Powered Women's Safety System
 
-SangRakshak is an AI-driven security system designed to enhance safety for women by detecting potential threats in **real-time video feeds**.  
-It supports **CCTV live streaming & manual video uploads**, providing AI-powered analysis for **crowd detection, violence detection, and gender identification**.
+SangRakshak is an AI-driven security system designed to enhance safety for women by detecting potential threats in **real-time video feeds**.  It supports **CCTV live streaming & manual video uploads**, providing AI-powered analysis for **crowd detection, violence detection, and gender identification**.
 
 ---
 
