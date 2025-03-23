@@ -15,7 +15,7 @@ SangRakshak is an AI-driven security system designed to enhance safety for women
 
 ## 🖥️ Live Demo  
 🔗 **Access the hosted application here:**  
-👉 **[sangRakshak AI System](https://3355981ad566a5b159.gradio.live/)**  
+👉 **[sangRakshak AI System](https://4e672ea9dafa57a7eb.gradio.live/)**  
 
 ---
 
