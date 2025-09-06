@@ -1,0 +1,28 @@
+[
+  {
+    "type": "audio",
+    "class": "scream_distress",
+    "confidence": 0.9148811885526278,
+    "timestamp": "2025-09-06T20:14:38.834754",
+    "probabilities": {
+      "normal": 0.05,
+      "scream_distress": 0.8,
+      "aggressive": 0.05,
+      "emergency": 0.05,
+      "silent": 0.05
+    }
+  },
+  {
+    "type": "audio",
+    "class": "emergency",
+    "confidence": 0.8120629874510243,
+    "timestamp": "2025-09-06T20:14:46.838490",
+    "probabilities": {
+      "normal": 0.05,
+      "scream_distress": 0.05,
+      "aggressive": 0.05,
+      "emergency": 0.8,
+      "silent": 0.05
+    }
+  }
+]
