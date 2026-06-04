@@ -1,0 +1,7 @@
+fernet.key
+*.pth
+*.keras
+*.h5
+__pycache__/
+*.pyc
+.DS_Store
